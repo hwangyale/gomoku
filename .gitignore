@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.d
+
+*.obj
+
+*.o
+
+*.tlog
+
+*.lastbuildstate
+
+*.idb
+
+*.pdb
+
+*~
+
+*.swp
+
+
